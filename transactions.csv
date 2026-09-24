@@ -1,0 +1,16 @@
+date,category,amount,type
+2026-09-01,Salary,45000,Credit
+2026-09-02,Groceries,1200,Debit
+2026-09-03,Rent,12000,Debit
+2026-09-05,Movies,500,Debit
+2026-09-06,Fuel,800,Debit
+2026-09-08,Restaurants,650,Debit
+2026-09-10,Electricity,2200,Debit
+2026-09-12,Shopping,3500,Debit
+2026-09-15,Freelance,8000,Credit
+2026-09-16,Groceries,900,Debit
+2026-09-18,Internet,999,Debit
+2026-09-20,Movies,400,Debit
+2026-09-22,Fuel,750,Debit
+2026-09-25,Gym,1500,Debit
+2026-09-28,Restaurants,1100,Debit
